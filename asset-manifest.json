@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/research/static/css/main.30b2e711.css",
+    "main.js": "/research/static/js/main.5a9cb270.js",
+    "static/media/Nizhny.jpg": "/research/static/media/Nizhny.6066db3f7253daed6780.jpg",
+    "static/media/okn.jpg": "/research/static/media/okn.4c1535758ad14928feb7.jpg",
+    "static/media/Ekaterinburg.jpg": "/research/static/media/Ekaterinburg.f7e16e03c0ca90701928.jpg",
+    "static/media/Kazan.jpg": "/research/static/media/Kazan.4b5e4bd91e9ad26b3652.jpg",
+    "static/media/Ivanovo.jpg": "/research/static/media/Ivanovo.ee5bd7e60041a09b6343.jpg",
+    "static/media/Arkhangelsk.jpg": "/research/static/media/Arkhangelsk.7e18d44a6b47fbd0d463.jpg",
+    "static/media/HSESans-Black.otf": "/research/static/media/HSESans-Black.64be0ebc58636082ac17.otf",
+    "static/media/HSESans-Thin.otf": "/research/static/media/HSESans-Thin.44c31c71844de95d0b19.otf",
+    "static/media/HSESans-Regular.otf": "/research/static/media/HSESans-Regular.53b84a08a64e03ba2ba4.otf",
+    "static/media/HSESans-Bold.otf": "/research/static/media/HSESans-Bold.2cf8b2185488a5af702e.otf",
+    "static/media/HSESans-SemiBold.otf": "/research/static/media/HSESans-SemiBold.4e10450f0e5ecaa1c8b5.otf",
+    "static/media/HSESans-Italic.otf": "/research/static/media/HSESans-Italic.9672fae4bb75faa7498b.otf",
+    "static/media/documents.svg": "/research/static/media/documents.5395523090207a801f65e4b0ec84b767.svg",
+    "static/media/sociology.svg": "/research/static/media/sociology.fe50783adeaf882674ee5bd1b613a69f.svg",
+    "static/media/hse_logo.png": "/research/static/media/hse_logo.0f8aac406a4f779fcd85.png",
+    "static/media/location.svg": "/research/static/media/location.186a63eccfb3eeb2e9fc794cf9613d9f.svg",
+    "static/media/economics.svg": "/research/static/media/economics.d2cfed05ec7782b6c48d466dd3e429d0.svg",
+    "index.html": "/research/index.html",
+    "main.30b2e711.css.map": "/research/static/css/main.30b2e711.css.map",
+    "main.5a9cb270.js.map": "/research/static/js/main.5a9cb270.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30b2e711.css",
+    "static/js/main.5a9cb270.js"
+  ]
+}
